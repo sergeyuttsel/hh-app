@@ -1,0 +1,167 @@
+{
+  "items": [
+    {
+      "id": "28659264",
+      "premium": false,
+      "name": "Data Engineer/Разработчик BigData",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "description": null,
+        "lat": null,
+        "lng": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Чкаловская",
+          "line_name": "Фрунзенско-Приморская",
+          "station_id": "18.248",
+          "line_id": "18",
+          "lat": 59.961033,
+          "lng": 30.292006
+        },
+        "metro_stations": [
+          {
+            "station_name": "Чкаловская",
+            "line_name": "Фрунзенско-Приморская",
+            "station_id": "18.248",
+            "line_id": "18",
+            "lat": 59.961033,
+            "lng": 30.292006
+          },
+          {
+            "station_name": "Петроградская",
+            "line_name": "Московско-Петроградская",
+            "station_id": "15.215",
+            "line_id": "15",
+            "lat": 59.966389,
+            "lng": 30.311293
+          }
+        ],
+        "id": "669876"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "2987",
+        "name": "КРОК",
+        "url": "https://api.hh.ru/employers/2987",
+        "alternate_url": "https://hh.ru/employer/2987",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/1555613.png",
+          "240": "https://hhcdn.ru/employer-logo/1555614.png",
+          "original": "https://hhcdn.ru/employer-logo-original/278279.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2987",
+        "trusted": true
+      },
+      "published_at": "2018-12-28T17:35:48+0300",
+      "created_at": "2018-12-28T17:35:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28659264",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/28659264?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/28659264",
+      "relations": [],
+      "snippet": {
+        "requirement": "Умение установки и настройки продуктов Apache Hadoop, Spark и прочих продуктов из данного стека. Наличие проектов по разработке под Hadoop...",
+        "responsibility": "Участие проектах по созданию информационно-аналитических систем в качестве разработчика BigData."
+      },
+      "contacts": null
+    },
+    {
+      "id": "28469894",
+      "premium": false,
+      "name": "Инженер-аналитик/ Помощник ГИПа",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Звёздная улица",
+        "building": "1",
+        "description": null,
+        "lat": 59.831245,
+        "lng": 30.344866,
+        "raw": null,
+        "metro": {
+          "station_name": "Звёздная",
+          "line_name": "Московско-Петроградская",
+          "station_id": "15.225",
+          "line_id": "15",
+          "lat": 59.833241,
+          "lng": 30.349428
+        },
+        "metro_stations": [
+          {
+            "station_name": "Звёздная",
+            "line_name": "Московско-Петроградская",
+            "station_id": "15.225",
+            "line_id": "15",
+            "lat": 59.833241,
+            "lng": 30.349428
+          }
+        ],
+        "id": "683450"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "employer": {
+        "id": "652387",
+        "name": "ЭлТех СПб",
+        "url": "https://api.hh.ru/employers/652387",
+        "alternate_url": "https://hh.ru/employer/652387",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/967334.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/967335.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/157639.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=652387",
+        "trusted": true
+      },
+      "published_at": "2018-12-28T17:42:50+0300",
+      "created_at": "2018-12-28T17:42:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28469894",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/28469894?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/28469894",
+      "relations": [],
+      "snippet": {
+        "requirement": "Высшее техническое образование. Опыт работы на аналогичной должности в строительной либо проектной организации. Знание процедур разработки проектной документации от стадии...",
+        "responsibility": "Проведение стоимостного анализа по конкурсам. Анализ конкурсной документации. Составление предварительного бюджета на проектные работы. Подготовка коммерческих предложений. Оформление документации. "
+      },
+      "contacts": null
+    }
+  ],
+  "found": 7,
+  "pages": 2,
+  "per_page": 5,
+  "page": 1,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?area=2&date_from=28.12.2018+17%3A35%3A00&date_to=28.12.2018+17%3A57%3A00&enable_snippets=true&items_on_page=5&page=1&specialization=1"
+}

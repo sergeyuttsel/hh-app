@@ -1,0 +1,118 @@
+{
+  "id": "29484191",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Middle Python developer",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 90000,
+    "to": 120000,
+    "currency": "RUR",
+    "gross": false
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><em><strong>В дружную высокопрофессиональную команду динамично развивающейся компании для работы в офисе требуется python backend разработчик уровня middle. </strong></em></p> <p><strong>Работа в команде разработчиков финансовых инструментов, создание высоко нагруженных и отказоустойчивых систем.</strong></p> <p><em>Работа над крупными интернет корпоративным проектом (собственное ПО).<br />Разработка архитектуры приложений на всех этапах, согласно утвержденному ТЗ</em></p> <p><br /><strong>Что мы ходим видеть в нашем сотруднике:</strong></p> <ul> <li>Продуктивный опыт разработки на Python/Django минимум 3 года;</li> <li>Продвинутые знания Postgres;</li> <li>Опыт работы с MongoDB, Redis, Celery;</li> <li>Опыт командной коммерческой разработки и проектирования;</li> <li>Умение разбираться в чужом коде, производить рефакторинг и оптимизацию;</li> <li>Желательно хорошее знание Linux (Debian/Ubuntu) или других *nix;</li> <li>Будет плюсом, если в резюме отразите проекты, свою роль и вклад, результат.</li> <li>Рассматриваются кандидаты, готовые к переезду в Санкт-Петербург, Россия.</li> </ul> <p><strong>Наши условия:</strong></p> <ul> <li>работа в сильной команде профессионалов, крупный отдел;</li> <li>высокая заработная плата;</li> <li>гибкий график;</li> <li>интересные задачи в финансовой сфере;</li> <li>адекватный менеджмент;</li> <li>высокая степень свободы в решении задач,- участие в конференциях;</li> <li>шикарный кофе)</li> <li>территориально Санкт-Петербург, на Васильевском острове, в хорошем современном БЦ.</li> </ul>",
+  "branded_description": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "1.395",
+      "name": "Банковское ПО",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.221",
+      "name": "Программирование, Разработка",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.420",
+      "name": "Администратор баз данных",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.9",
+      "name": "Web инженер",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.89",
+      "name": "Интернет",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.10",
+      "name": "Web мастер",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "739977",
+    "name": "Деньга",
+    "url": "https://api.hh.ru/employers/739977",
+    "alternate_url": "https://hh.ru/employer/739977",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/2685194.jpeg",
+      "90": "https://hhcdn.ru/employer-logo/2685193.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/560930.jpg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=739977",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:36:10+0300",
+  "created_at": "2018-12-28T17:36:10+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=29484191",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/29484191"
+}

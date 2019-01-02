@@ -1,0 +1,129 @@
+{
+  "id": "28659264",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Data Engineer/Разработчик BigData",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": null,
+    "street": null,
+    "building": null,
+    "description": null,
+    "lat": null,
+    "lng": null,
+    "raw": null,
+    "metro": {
+      "station_name": "Чкаловская",
+      "line_name": "Фрунзенско-Приморская",
+      "station_id": "18.248",
+      "line_id": "18",
+      "lat": 59.961033,
+      "lng": 30.292006
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чкаловская",
+        "line_name": "Фрунзенско-Приморская",
+        "station_id": "18.248",
+        "line_id": "18",
+        "lat": 59.961033,
+        "lng": 30.292006
+      },
+      {
+        "station_name": "Петроградская",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.215",
+        "line_id": "15",
+        "lat": 59.966389,
+        "lng": 30.311293
+      }
+    ]
+  },
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p>Крупная российская ИТ-компания приглашает на работу <strong>Разработчика BigData</strong></p> <p><strong><em>Ваши задачи:</em></strong></p> <ul> <li>участие проектах по созданию информационно-аналитических систем в качестве разработчика BigData;</li> </ul> <p><strong><em>Наши ожидания:</em></strong></p> <ul> <li>умение установки и настройки продуктов Apache Hadoop, Spark и прочих продуктов из данного стека;</li> <li>наличие проектов по разработке под Hadoop, Spark;</li> <li>опыт работы с промышленными СУБД (Oracle, MS/SQL, PostgreSQL);</li> <li>понимание принципов построения DWH;</li> </ul> <p>Приветствуются:</p> <ul> <li>опыт работы с промышленными ETL платформами;</li> <li>знание скриптовых языков Perl, Python;</li> <li>знание Java;</li> <li>наличие сертификатов;</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>заработная плата по результатам собеседования + премии по итогам работы;</li> <li>профессиональное обучение и сертификация за счёт компании;</li> <li>ДМС с полным пакетом медицинских услуг;</li> <li>изучение английского языка с компенсацией от компании;</li> <li>абонемент в фитнес-центры и спортивные программы с компенсацией от компании;</li> <li>бесплатное питание в офисе.</li> </ul> <p><em>Данное описание вакансии не является офертой</em></p>",
+  "branded_description": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "1.221",
+      "name": "Программирование, Разработка",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.82",
+      "name": "Инженер",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.25",
+      "name": "Аналитик",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "2987",
+    "name": "КРОК",
+    "url": "https://api.hh.ru/employers/2987",
+    "alternate_url": "https://hh.ru/employer/2987",
+    "logo_urls": {
+      "90": "https://hhcdn.ru/employer-logo/1555613.png",
+      "240": "https://hhcdn.ru/employer-logo/1555614.png",
+      "original": "https://hhcdn.ru/employer-logo-original/278279.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2987",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:35:48+0300",
+  "created_at": "2018-12-28T17:35:48+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28659264",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/28659264"
+}

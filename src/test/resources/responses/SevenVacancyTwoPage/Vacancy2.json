@@ -1,0 +1,123 @@
+{
+  "id": "29274702",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Аналитик",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p><em>В связи с расширением, в Управляющей компании федеральной ювелирной сети<strong> &quot;585*Золотой&quot; </strong>открыта вакансия <strong>Аналитика</strong></em></p> <p><strong>Должностные обязанности:</strong></p> <ul> <li>Участие в построении системы сквозной аналитики e-commerce: написание требований к системе, разработка схем движения данных, тестирование результатов;</li> <li>Выполнение регулярных отчетов по e-commerce: по трафику, продажам, работе сайта, доставке, сервису;</li> <li>Проведение исследований по оценке влияния факторов на операционные показатели деятельности направления. Выработка предложений, направленных на рост продаж.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Опыт работы с системами сбора статистики <strong>(Google Analytics, Яндекс. Метрика)</strong>, понимание интеграции этих систем в приложения и на сайты;</li> <li>Владение инструментами визуализации на уровне построения отчетности (Power BI и DataStudio);</li> <li>Умение делать выводы по итогам анализа;</li> <li>Аналитический склад ума, желание обучаться;</li> <li>Навыки работы в excel.</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>Работа в крупной стабильной компании</li> <li>Удобная бесплатная корпоративная развозка от ст.м. Парнас, время в пути 10 минут;</li> <li>Также корпоративное маршрутное такси от ст.м. Комендантский, Гражданский пр.;</li> <li>График 5/2 8:30 – 17:00, либо 9:30 – 18:00;</li> <li>Оформление в соответствии с ТК РФ с первого дня работы, социальные гарантии.</li> </ul> <p><strong>А также:</strong></p> <ul> <li>Современный новый офис;</li> <li>Корпоративный фитнес в здании офиса (тренировочный зал, групповые и индивидуальные занятия);</li> <li>Вкусные завтраки и обеды в собственной столовой в здании офиса с компенсацией 50% от стоимости;</li> <li>Развитая система обучения сотрудников;</li> <li>Насыщенная корпоративная жизнь.</li> </ul>",
+  "branded_description": null,
+  "key_skills": [
+    {
+      "name": "Google Analytics"
+    },
+    {
+      "name": "Яндекс.Метрика"
+    },
+    {
+      "name": "MS Excel"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "3.318",
+      "name": "Управление маркетингом",
+      "profarea_id": "3",
+      "profarea_name": "Маркетинг, реклама, PR"
+    },
+    {
+      "id": "3.26",
+      "name": "Аналитик",
+      "profarea_id": "3",
+      "profarea_name": "Маркетинг, реклама, PR"
+    },
+    {
+      "id": "3.90",
+      "name": "Интернет-маркетинг",
+      "profarea_id": "3",
+      "profarea_name": "Маркетинг, реклама, PR"
+    },
+    {
+      "id": "1.246",
+      "name": "Развитие бизнеса",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.25",
+      "name": "Аналитик",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.137",
+      "name": "Маркетинг",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "916364",
+    "name": "585, Золотой",
+    "url": "https://api.hh.ru/employers/916364",
+    "alternate_url": "https://hh.ru/employer/916364",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/1899487.jpeg",
+      "90": "https://hhcdn.ru/employer-logo/1899486.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/364307.jpg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=916364",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:49:17+0300",
+  "created_at": "2018-12-28T17:49:17+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=29274702",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/29274702"
+}

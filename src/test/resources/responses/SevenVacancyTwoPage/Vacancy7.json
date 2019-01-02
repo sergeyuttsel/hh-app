@@ -1,0 +1,127 @@
+{
+  "id": "28469894",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Инженер-аналитик/ Помощник ГИПа",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Звёздная улица",
+    "building": "1",
+    "description": null,
+    "lat": 59.831245,
+    "lng": 30.344866,
+    "raw": null,
+    "metro": {
+      "station_name": "Звёздная",
+      "line_name": "Московско-Петроградская",
+      "station_id": "15.225",
+      "line_id": "15",
+      "lat": 59.833241,
+      "lng": 30.349428
+    },
+    "metro_stations": [
+      {
+        "station_name": "Звёздная",
+        "line_name": "Московско-Петроградская",
+        "station_id": "15.225",
+        "line_id": "15",
+        "lat": 59.833241,
+        "lng": 30.349428
+      }
+    ]
+  },
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "between1And3",
+    "name": "От 1 года до 3 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": null,
+  "description": "<p>ЭлТех СПб сегодня – это крупнейший инжиниринговый центр, работающий на рынке создания высокотехнологичных промышленных объектов в сфере производства электроники, приборостроения, наноиндустрии и смежных наукоёмких отраслей. Компания осуществляет полный цикл работ по созданию высокотехнологичных производств.</p> <p>В данный момент в нашей компании открыта<strong> </strong>вакансия<strong> Инженера – аналитика</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>Проведение стоимостного анализа по конкурсам;</li> <li>Анализ конкурсной документации;</li> <li>Составление предварительного бюджета на проектные работы;</li> <li>Подготовка коммерческих предложений;</li> <li>Оформление документации;</li> <li>Составление планов работ, графиков производства работ;</li> <li>Деловая переписка;</li> <li>Взаимодействие с руководителями отделов департамента проектирования и смежных подразделений.</li> </ul> <p><strong>Требования:</strong></p> <ul> <li>Высшее техническое образование;</li> <li>Опыт работы на аналогичной должности в строительной либо проектной организации;</li> <li>Знание процедур разработки проектной документации от стадии «П» до стадии «Р»;</li> <li>Знание норм и правил проектирования, опыт составления технических заданий, проектной документации, согласования принятых технических решений;</li> <li>Знание строительного законодательства и процедур в области прохождения гос.экспертизы;</li> </ul> <ul> <li>Опыт использования инженерного, проектного и архитектурного ПО;</li> <li>Готовность к командировкам.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Работу в стабильной, развивающейся компании;</li> <li>Оформление в соответствии с ТК РФ;</li> <li>Стабильную &quot;белую&quot;заработную плату (уровень обсуждается);</li> <li>Сокращенный рабочий день в пятницу;</li> <li>Компенсацию питания;</li> <li>Офис в бизнес-центре &quot;Континент&quot;, метро Звездная, комфортные условия труда.</li> </ul>",
+  "branded_description": null,
+  "key_skills": [],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "1.110",
+      "name": "Компьютерная безопасность",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.82",
+      "name": "Инженер",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.25",
+      "name": "Аналитик",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "20.83",
+      "name": "Инженер",
+      "profarea_id": "20",
+      "profarea_name": "Строительство, недвижимость"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "652387",
+    "name": "ЭлТех СПб",
+    "url": "https://api.hh.ru/employers/652387",
+    "alternate_url": "https://hh.ru/employer/652387",
+    "logo_urls": {
+      "90": "https://hhcdn.ru/employer-logo/967334.jpeg",
+      "240": "https://hhcdn.ru/employer-logo/967335.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/157639.jpg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=652387",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:42:50+0300",
+  "created_at": "2018-12-28T17:42:50+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=28469894",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/28469894"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "29289646",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Руководитель Проекта (Лидер)",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": null,
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": null,
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "between3And6",
+    "name": "От 3 до 6 лет"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": {
+    "name": "Родина Ирина (менеджер по подбору персонала)",
+    "email": "yudina@molzavod.ru",
+    "phones": [
+      {
+        "comment": null,
+        "city": "931",
+        "number": "212-99-87",
+        "country": "7"
+      }
+    ]
+  },
+  "description": "<p><em>Группа компаний «ГАЛАКТИКА» является одним из крупнейших производителей молочных продуктов в России. «ГАЛАКТИКА» выпускает продукцию под торговыми марками «Большая Кружка», «Сударыня» и «Свежее Завтра».</em></p> <p><strong><em>В команду инновационного проекта федерального масштаба &quot;Современная Пищевая Безопасность&quot; требуется РУКОВОДИТЕЛЬ ПРОЕКТА (ЛИДЕР)</em></strong></p> <p><em>Проект полностью изменит отношение покупателя с производителем, сделав цепочку поставки и производства прозрачной.</em></p> <p><em><strong>Мы ожидаем от Вас:</strong></em></p> <ul> <li><em>Эффективного управления проектом &quot;Современная Пищевая Безопасность&quot;;</em></li> <li><em>Организации умелой работы и слаженного взаимодействия всех отделов и подразделений на контрактном производстве продукта;</em></li> <li><em>Умелой стратегии продаж имеющихся продуктов и услуг, участия в поиске, разработке и продаже новых;</em></li> <li><em>Сформированной системы продаж со всеми доступными каналами (поиск новых клиентов, accounting, партнерства, онлайн/оффлайн активности и проч.);</em></li> <li><em>Достоверной аналитической и стратегической отчетности;</em></li> <li><em>Харизмы Лидера, способного выступать перед аудиторией, просто объяснять сложные технические IT подробности, вложенные в новые товарные группы FMCG продуктов.</em></li> </ul> <p> </p> <em><strong>Наши пожелания:</strong></em> <ul> <li><em>Опыт на руководящей позиции в течение 3-х последних лет;</em></li> <li><em>Понимание рынка софта;</em></li> <li><em>Понимание рынка FMCG;</em></li> <li><em>Успешный опыт построения систем продаж, опыт личных продаж, выстраивание стратегии В2В;</em></li> <li><em>Знание основных игроков на рынке IT решений для бизнеса;</em></li> <li><em>Знание английского языка;</em></li> <li><em>Объединяющий опыт работы в IT- и производственной сфере будет важным преимуществом.</em></li> </ul> <p><em><strong>Условия:</strong></em></p> <ul> <li><em>Проект развивается стремительно. Условия гибкие, возможны любые варианты по договоренности.</em></li> </ul>",
+  "branded_description": null,
+  "key_skills": [
+    {
+      "name": "Управление продажами"
+    },
+    {
+      "name": "B2B Продажи"
+    },
+    {
+      "name": "Поиск и привлечение клиентов"
+    },
+    {
+      "name": "Управление отношениями с клиентами"
+    },
+    {
+      "name": "Управление проектами"
+    },
+    {
+      "name": "Стратегическое планирование"
+    },
+    {
+      "name": "Ведение переговоров"
+    },
+    {
+      "name": "Проведение презентаций"
+    }
+  ],
+  "accept_handicapped": false,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "9.94",
+      "name": "Информационные технологии, Интернет, Мультимедиа",
+      "profarea_id": "9",
+      "profarea_name": "Высший менеджмент"
+    },
+    {
+      "id": "9.238",
+      "name": "Производство, Технология",
+      "profarea_id": "9",
+      "profarea_name": "Высший менеджмент"
+    },
+    {
+      "id": "9.226",
+      "name": "Продажи",
+      "profarea_id": "9",
+      "profarea_name": "Высший менеджмент"
+    },
+    {
+      "id": "1.225",
+      "name": "Продажи",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.50",
+      "name": "Системы управления предприятием (ERP)",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "1.474",
+      "name": "Стартапы",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [
+    {
+      "id": "B"
+    }
+  ],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "60708",
+    "name": "Галактика, группа компаний",
+    "url": "https://api.hh.ru/employers/60708",
+    "alternate_url": "https://hh.ru/employer/60708",
+    "logo_urls": {
+      "240": "https://hhcdn.ru/employer-logo/498059.jpeg",
+      "original": "https://hhcdn.ru/employer-logo-original/218379.jpg",
+      "90": "https://hhcdn.ru/employer-logo/498058.jpeg"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=60708",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:07:38+0300",
+  "created_at": "2018-12-28T17:07:38+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=29289646",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/29289646"
+}

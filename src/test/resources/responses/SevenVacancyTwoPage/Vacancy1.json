@@ -1,0 +1,163 @@
+{
+  "id": "29422249",
+  "premium": false,
+  "billing_type": {
+    "id": "standard",
+    "name": "Стандарт"
+  },
+  "relations": [],
+  "name": "Менеджер",
+  "insider_interview": null,
+  "response_letter_required": false,
+  "area": {
+    "id": "2",
+    "name": "Санкт-Петербург",
+    "url": "https://api.hh.ru/areas/2"
+  },
+  "salary": {
+    "from": 38000,
+    "to": null,
+    "currency": "RUR",
+    "gross": false
+  },
+  "type": {
+    "id": "open",
+    "name": "Открытая"
+  },
+  "address": {
+    "city": "Санкт-Петербург",
+    "street": "Центральный район, улица Некрасова",
+    "building": "40",
+    "description": null,
+    "lat": 59.938906,
+    "lng": 30.361718,
+    "raw": null,
+    "metro": {
+      "station_name": "Чернышевская",
+      "line_name": "Кировско-Выборгская",
+      "station_id": "14.198",
+      "line_id": "14",
+      "lat": 59.94453,
+      "lng": 30.359919
+    },
+    "metro_stations": [
+      {
+        "station_name": "Чернышевская",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.198",
+        "line_id": "14",
+        "lat": 59.94453,
+        "lng": 30.359919
+      },
+      {
+        "station_name": "Площадь Восстания",
+        "line_name": "Кировско-Выборгская",
+        "station_id": "14.199",
+        "line_id": "14",
+        "lat": 59.930279,
+        "lng": 30.361069
+      }
+    ]
+  },
+  "allow_messages": true,
+  "site": {
+    "id": "hh",
+    "name": "hh.ru"
+  },
+  "experience": {
+    "id": "noExperience",
+    "name": "Нет опыта"
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "employment": {
+    "id": "full",
+    "name": "Полная занятость"
+  },
+  "department": null,
+  "contacts": {
+    "name": "Акрамова Эвелина",
+    "email": "sod-detyam@mail.ru",
+    "phones": [
+      {
+        "comment": null,
+        "city": "911",
+        "number": "0027323",
+        "country": "7"
+      }
+    ]
+  },
+  "description": "<p><strong>Наша организация &quot;Содействие-детям&quot; имеет солидную репутацию и звание серьезного партнера и работодателя. </strong></p> <p> </p> <p>В связи с развитием компания расширяет менеджерский состав и набирает на конкурсной основе<strong> 5 менеджеров по работе с клиентами! В обязанности входит</strong></p> <p><strong>Обязанности:</strong></p> <ul> <li>клиентская база предоставляется</li> <li>Ведение переговоров</li> <li>Контроль своевременных выплат</li> <li>Подготовка и рассылка предложений</li> <li>Работа с имеющейся базой</li> </ul> <p><strong>Требования:</strong></p> <p><strong>Образование: Среднее специальное</strong></p> <ul> <li>Иностранные языки:Английский — начальный</li> </ul> <strong>Условия:</strong> <ul> <li>Постоянная работа, полный день, работа на территории работодателя</li> <li>Оформление, отпуск, больничный и пр. по ТК</li> <li>фиксированный оклад 38 000 рублей + %+ бонусы</li> <li>Компенсация мобильной связи</li> <li>Корпоративное обучение и тренинги</li> <li>Возможность профессионального и карьерного роста</li> <li>Рабочий день с 08.30 до 18.00 (пятидневка)</li> <li>Испытательный срок 2 месяца</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li><strong>Возможность работать иногородним.</strong></li> <li>Есть возможность прохождения преддипломной практики.</li> <li>Работа в стабильной и развивающейся организации;</li> <li>Возможность карьерного роста;</li> </ul> <p> </p>",
+  "branded_description": null,
+  "key_skills": [],
+  "accept_handicapped": true,
+  "accept_kids": false,
+  "archived": false,
+  "response_url": null,
+  "specializations": [
+    {
+      "id": "11.173",
+      "name": "Начальный уровень, Мало опыта",
+      "profarea_id": "11",
+      "profarea_name": "Искусство, развлечения, масс-медиа"
+    },
+    {
+      "id": "1.225",
+      "name": "Продажи",
+      "profarea_id": "1",
+      "profarea_name": "Информационные технологии, интернет, телеком"
+    },
+    {
+      "id": "12.180",
+      "name": "Начальный уровень, Мало опыта",
+      "profarea_id": "12",
+      "profarea_name": "Консультирование"
+    },
+    {
+      "id": "12.197",
+      "name": "Организационное консультирование",
+      "profarea_id": "12",
+      "profarea_name": "Консультирование"
+    },
+    {
+      "id": "17.149",
+      "name": "Менеджер по работе с клиентами",
+      "profarea_id": "17",
+      "profarea_name": "Продажи"
+    },
+    {
+      "id": "4.278",
+      "name": "Сотрудник call-центра",
+      "profarea_id": "4",
+      "profarea_name": "Административный персонал"
+    }
+  ],
+  "code": null,
+  "hidden": false,
+  "quick_responses_allowed": false,
+  "driver_license_types": [],
+  "accept_incomplete_resumes": false,
+  "employer": {
+    "id": "1247786",
+    "name": "Содействие детям",
+    "url": "https://api.hh.ru/employers/1247786",
+    "alternate_url": "https://hh.ru/employer/1247786",
+    "logo_urls": {
+      "90": "https://hhcdn.ru/employer-logo/1533138.png",
+      "original": "https://hhcdn.ru/employer-logo-original/272652.png",
+      "240": "https://hhcdn.ru/employer-logo/1533139.png"
+    },
+    "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1247786",
+    "trusted": true
+  },
+  "published_at": "2018-12-28T17:56:56+0300",
+  "created_at": "2018-12-28T17:56:56+0300",
+  "negotiations_url": null,
+  "suitable_resumes_url": null,
+  "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=29422249",
+  "has_test": false,
+  "test": null,
+  "alternate_url": "https://hh.ru/vacancy/29422249"
+}

@@ -1,0 +1,20 @@
+server:
+  port: 8090
+
+elasticsearch:
+  index:
+    vacancies: "vacancies"
+  client:
+    cluster-name: "UvfEX1c"
+    nodes:
+      -
+        host: 127.0.0.1
+        port: 9200
+
+hh:
+  url: http://localhost:8090/
+
+hh-api:
+  url:
+    vacanciesList: https://api.hh.ru/vacancies
+    vacancy: https://api.hh.ru/vacancies/
