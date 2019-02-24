@@ -14,6 +14,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 import java.io.IOException;
+import java.time.LocalDate;
 import java.util.List;
 
 @Slf4j
@@ -51,6 +52,13 @@ public class VacanciesDao {
         String document = mapper.writeValueAsString(vacancy);
         return new IndexRequest(vacanciesIndex, "doc", id)
                 .source(document, XContentType.JSON);
+    }
+
+    public static void main(String[] args) {
+        LocalDate to = LocalDate.parse("2019-01-10");
+        LocalDate from = to.minusDays(29);
+        System.out.println(to);
+        System.out.println(from);
     }
 
 }
